@@ -23,6 +23,7 @@ brew "imagemagick"
 brew "pkg-config"
 brew "libyaml"
 brew "dialpad"
+brew "youtube-dl"
 
 brew "nmap"
 brew "nvm"
@@ -49,5 +50,9 @@ cask "awscli"
 cask "transmit"
 cask "postman"
 cask "balsamiq-mockups"
+cask "lastpass"
+cask "arduino"
+cask "balenaetcher"
+cask "dash"
 
 
