@@ -1,6 +1,5 @@
 cask_args appdir: "/Applications"
 
-tap "caskformula/caskformula"
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
