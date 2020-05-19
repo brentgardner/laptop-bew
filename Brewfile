@@ -15,16 +15,12 @@ brew "ruby-install"
 brew "coreutils"
 brew "gdbm"
 brew "git"
-brew "gnupg"
 brew "go"
-brew "hub"
 brew "libtool"
 brew "imagemagick"
 brew "pkg-config"
 brew "libyaml"
-brew "dialpad"
-brew "youtube-dl"
-
+brew "youtube-dl"s
 brew "nmap"
 brew "nvm"
 
