@@ -20,7 +20,7 @@ brew "libtool"
 brew "imagemagick"
 brew "pkg-config"
 brew "libyaml"
-brew "youtube-dl"s
+brew "youtube-dl"
 brew "nmap"
 brew "nvm"
 
